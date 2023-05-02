@@ -9,10 +9,10 @@
 		<version>3.0.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.techgeeknext</groupId>
-	<artifactId>spring-boot-upload-multiple-files-example</artifactId>
+	<groupId>top.abr</groupId>
+	<artifactId>heroku-test</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-upload-multiple-files-example</name>
+	<name>heroku-test</name>
 	<description>Spring Boot upload multiple files example</description>
 
 	<properties>
